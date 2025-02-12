@@ -22,3 +22,4 @@ Destacar los factores de su minimización del impacto ambiental.
 
 El proyecto tiene que tener su parte de documentación en un word o herramienta utilizada que son los 3 puntos equivalentes al examen y la presentación del portal se grabara en video con su explicación que equipara a los 5 puntos de la actividad practica.
 
+![Ecodesign photo](img/verd.jpg)
