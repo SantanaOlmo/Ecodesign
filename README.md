@@ -93,7 +93,7 @@
   
 ---
 
-### 📌 1️⃣ ** Normativa Ambiental **
+### 📌 1️⃣  Normativa Ambiental
 
 Contenido:
 Airbnb y otras plataformas de alojamiento deben cumplir con diversas regulaciones ambientales para fomentar la sostenibilidad. Algunas normativas clave incluyen:
