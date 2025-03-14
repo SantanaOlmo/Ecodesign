@@ -92,68 +92,69 @@
 - Airbnb podría asociarse con empresas de construcción sostenible para ofrecer **descuentos** en este tipo de alojamientos.
   
 ---
-📌 1️⃣ Normativa Ambiental
+
+### 📌 1️⃣ ** Normativa Ambiental **
+
 Contenido:
 Airbnb y otras plataformas de alojamiento deben cumplir con diversas regulaciones ambientales para fomentar la sostenibilidad. Algunas normativas clave incluyen:
 
-🔹 Regulación de residuos y reciclaje
+**Regulación de residuos y reciclaje**
 
 Las normativas locales exigen que los alojamientos turísticos cuenten con sistemas de reciclaje y gestión de residuos adecuados.
 Ejemplo: En la UE, la Directiva Marco de Residuos (2008/98/CE) establece principios sobre reciclaje y reducción de desechos.
-🔹 Eficiencia energética y certificaciones ecológicas
+
+**Eficiencia energética y certificaciones ecológicas**
 
 Algunos países requieren que los alojamientos cumplan con estándares de eficiencia energética y utilicen fuentes renovables.
 Certificaciones relevantes:
 LEED (Liderazgo en Energía y Diseño Ambiental)
 BREEAM (Evaluación Ambiental de Edificios)
 ISO 14001 (Gestión ambiental)
-🔹 Normativa sobre agua y emisiones de CO₂
+
+**Normativa sobre agua y emisiones de CO₂**
 
 Algunas legislaciones exigen sistemas de reducción de consumo de agua (como grifos con sensores) y regulan el impacto de las emisiones de CO₂ en alojamientos turísticos.
 Imágenes recomendadas:
-1️⃣ Certificación ecológica: 🔗 Imagen
-2️⃣ Reciclaje en alojamientos: 🔗 Imagen
-3️⃣ Energía renovable en casas: 🔗 Imagen
 
-📌 2️⃣ Economía Circular
+
+### 📌 2️⃣ Economía Circular
+
 Contenido:
 Airbnb puede aplicar principios de economía circular en los alojamientos promoviendo la reutilización de materiales y la reducción del desperdicio.
 
-🔹 Uso de materiales reciclados en alojamientos
+**Uso de materiales reciclados en alojamientos**
 
 Incorporación de muebles reciclados o restaurados en las viviendas.
 Uso de textiles y productos biodegradables para ropa de cama, toallas y utensilios.
-🔹 Optimización del ciclo de vida de los recursos
+
+**Optimización del ciclo de vida de los recursos**
 
 Instalación de sistemas de reutilización de agua de lluvia.
 Uso de energía solar y eficiencia energética para minimizar el consumo eléctrico.
-🔹 Fomento del turismo sostenible
+
+**Fomento del turismo sostenible**
 
 Alentar a los huéspedes a utilizar transporte ecológico (bicicletas, vehículos eléctricos).
 Proporcionar información sobre actividades ecológicas en la zona.
-Imágenes recomendadas:
-1️⃣ Alojamiento sostenible con madera reciclada: 🔗 Imagen
-2️⃣ Reutilización de muebles en Airbnb: 🔗 Imagen
-3️⃣ Transporte ecológico en turismo: 🔗 Imagen
 
-📌 3️⃣ Minimización del Impacto Ambiental
+### 📌 3️⃣ Minimización del Impacto Ambiental
+
 Contenido:
 Reducir la huella ecológica de los alojamientos de Airbnb es clave para un modelo sostenible. Algunas estrategias incluyen:
 
-🔹 Uso de energía renovable
+**Uso de energía renovable**
 
 Instalación de paneles solares para el suministro eléctrico de la vivienda.
 Uso de bombillas LED de bajo consumo para iluminación.
-🔹 Reducción del consumo de agua
+
+**Reducción del consumo de agua**
 
 Instalación de duchas y grifos eficientes para reducir el desperdicio de agua.
 Incentivar el uso de productos de limpieza biodegradables para reducir la contaminación.
-🔹 Turismo responsable y compensación de emisiones
+
+**Turismo responsable y compensación de emisiones**
 
 Airbnb ha desarrollado programas de carbono neutral para ayudar a reducir las emisiones de CO₂.
 Algunos anfitriones ofrecen descuentos a huéspedes que viajan en tren o bicicleta en lugar de avión o coche.
-Imágenes recomendadas:
-1️⃣ Paneles solares en un alojamiento: 🔗 Imagen
-2️⃣ Uso de productos ecológicos en alojamientos: 🔗 Imagen
-3️⃣ Turismo responsable (bicicletas en Airbnb): 🔗 Imagen
+
  
