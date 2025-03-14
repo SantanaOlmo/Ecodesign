@@ -1,33 +1,5 @@
 ### [Ecodiseño y economía circular](https://santanaolmo.github.io/Ecodesign/)
 
-A partir de las parejas del trabajo anterior, y las empresas escogidas de los sectores profesionales, vamos a realizar un proyecto un poco más ambicioso relacionado con el ecodiseño y economía circular.
-
-
-
-Cada grupo, dentro de la medida de sus posibilidades, va a crear un portal web/multiplataforma o herramienta que controle de la empresa escogida anteriormente simulando una página de Vinted.
-
-
-
-De todo lo que ofrece la empresa, escoger el producto o servicio para publicarlo del que se va a realizar el análisis o descripción relacionado con ecodiseño y economía circular.
-
-
-
-Los pasos/ elementos que tienen que contener son los siguientes: 
-
-Normativa ambiental implicada.
-Pasos de como convertir el producto o servicio en economía circular que colgamos en nuestro portal Vinted utilizando los principios del ecodiseño y el ciclo de vida del producto.
-Aplicar el ecodiseño al producto/ servicio escogido.
-Destacar los factores de su minimización del impacto ambiental.
-
-
-El proyecto tiene que tener su parte de documentación en un word o herramienta utilizada que son los 3 puntos equivalentes al examen y la presentación del portal se grabara en video con su explicación que equipara a los 5 puntos de la actividad practica.
-
-![Ecodesign photo](img/verd.jpg)
-
-¡Buena idea! Aquí te explico cómo se podrían **implementar** estas estrategias en Airbnb desde la perspectiva del **ecodiseño y la economía circular**, incluyendo incentivos para los anfitriones:  
-
----
-
 ### **1. Cabañas ecológicas (Construcción sostenible) 🌱🏡**  
 ✅ **Cómo implementarlo**:  
 - Incentivar la construcción de alojamientos con **materiales sostenibles** (madera certificada, bambú, barro, corcho).  
@@ -117,12 +89,7 @@ El proyecto tiene que tener su parte de documentación en un word o herramienta 
 - Crear una categoría especial en Airbnb para **alojamientos desmontables o reutilizables**.  
 
 ✅ **Incentivo para anfitriones**:  
-- Airbnb podría asociarse con empresas de construcción sostenible para ofrecer **descuentos** en este tipo de alojamientos.  
-
+- Airbnb podría asociarse con empresas de construcción sostenible para ofrecer **descuentos** en este tipo de alojamientos.
+  
 ---
-
-### 📌 **Conclusión**  
-Estas acciones permitirían que Airbnb y sus anfitriones **reduzcan su impacto ambiental** y fomenten la economía circular. Al mismo tiempo, los **incentivos** ayudarían a que más personas adopten estas medidas.  
-
-¿Qué te parece? ¿Quieres que adapte alguna idea o que incluya algo más? 🚀♻️
  
